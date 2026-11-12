@@ -1,0 +1,7 @@
+url: https://github.com/hh5631/dsh-plugin-updater
+name: hh5631/dsh-plugin-updater
+category: market
+description:
+  en: Adds a check-for-updates button to the DSH Web installed plugins list and opens the native update dialog for compatible versions of registry plugins.
+  zh: 在 DSH Web 的已安装插件列表添加「检查更新」，对来自 registry 且有兼容版本的插件提供原生更新确认入口。
+tarball: https://github.com/hh5631/dsh-plugin-updater/releases/latest/download/dsh-plugin-updater.tgz

@@ -1,0 +1,7 @@
+url: https://github.com/hh5631/dsh-liquid-glass
+name: hh5631/dsh-liquid-glass
+category: theme
+description:
+  en: Adjustable liquid glass styling for DSH Web sidebars and settings, with tint, blur and transparency controls. The file viewer and its file tree use the host theme's backgrounds.
+  zh: DSH Web 液态玻璃外观，可在设置中调整侧栏和设置窗口的颜色、模糊和透明度，文件查看器和内嵌文件树沿用 DSH 原生主题底色。
+tarball: https://github.com/hh5631/dsh-liquid-glass/releases/latest/download/dsh-liquid-glass.tgz
